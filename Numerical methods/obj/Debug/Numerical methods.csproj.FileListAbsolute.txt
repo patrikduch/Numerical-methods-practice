@@ -1,0 +1,7 @@
+C:\Users\42060\source\repos\Numerical methods\Numerical methods\bin\Debug\Numerical methods.exe.config
+C:\Users\42060\source\repos\Numerical methods\Numerical methods\bin\Debug\Numerical methods.exe
+C:\Users\42060\source\repos\Numerical methods\Numerical methods\bin\Debug\Numerical methods.pdb
+C:\Users\42060\source\repos\Numerical methods\Numerical methods\obj\Debug\Numerical methods.csprojAssemblyReference.cache
+C:\Users\42060\source\repos\Numerical methods\Numerical methods\obj\Debug\Numerical methods.csproj.CoreCompileInputs.cache
+C:\Users\42060\source\repos\Numerical methods\Numerical methods\obj\Debug\Numerical methods.exe
+C:\Users\42060\source\repos\Numerical methods\Numerical methods\obj\Debug\Numerical methods.pdb
