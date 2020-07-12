@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Numerical_methods.starting_methods;
+using System;
 
 namespace Numerical_methods
 {
@@ -6,19 +7,12 @@ namespace Numerical_methods
     {
         static void Main(string[] args)
         {
-           var root =  SimpleIteration.FindRoot(0.0);
 
+            Bisection bisection = new Bisection();
 
-           Console.WriteLine(root.root.ToString());
-            Console.WriteLine(root.iterations);
+            var result = bisection.Find(2,0);
 
-
-           var secondRoot = SimpleIteration.FindRoot(2.0);
-
-
-           Console.WriteLine(secondRoot.root.ToString());
-            Console.WriteLine(secondRoot.iterations);
-
+            Console.WriteLine(result);
 
         }
     }
